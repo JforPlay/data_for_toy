@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-30T07:26:17.159518+00:00",
+  "generated_at": "2026-10-08T08:20:27.817114+00:00",
   "kinds": {
     "chibi": {
       "100000": {
@@ -9130,9 +9130,9 @@
       },
       "307053": {
         "codename": "xianghe_4",
-        "extracted_at": "2026-09-30T07:22:03.616571+00:00",
-        "md5": "449b93a7f2ab9615bd236917cc5c4a2f",
-        "size": 13488
+        "extracted_at": "2026-10-08T08:15:22.134829+00:00",
+        "md5": "8b739f1003714e3f76b8da3b7ffff25a",
+        "size": 13954
       },
       "307058": {
         "codename": "xianghe_h",
@@ -15373,6 +15373,12 @@
         "extracted_at": "2026-09-17T05:18:27.296505+00:00",
         "md5": "3cdfcf1e9022dbed2a687587c3cddeb0",
         "size": 15546
+      },
+      "9600033": {
+        "codename": "jinluhao_4",
+        "extracted_at": "2026-10-08T08:15:14.508779+00:00",
+        "md5": "a399d8ddeeab5314328b307c40eff41c",
+        "size": 15581
       },
       "9600040": {
         "codename": "mali",
@@ -41942,9 +41948,9 @@
       },
       "307053": {
         "codename": "xianghe_4",
-        "extracted_at": "2026-09-24T08:19:43.921695+00:00",
-        "md5": "5ebeb89b5383e1f3f92c383b1ea64e0c",
-        "size": 9835
+        "extracted_at": "2026-10-08T08:14:49.504496+00:00",
+        "md5": "02824881abcd12cbee9a9d0853fd2f97",
+        "size": 9820
       },
       "307058": {
         "codename": "xianghe_h",
